@@ -1,4 +1,4 @@
 package org.example.market.config.jwt;
 
-public class jwtFilter {
+public class JwtUtil {
 }
